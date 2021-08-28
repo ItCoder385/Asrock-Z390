@@ -901,7 +901,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1 -wegnoegpu</string>
+				<string>alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -977,7 +977,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020183004NLNV91F</string>
+			<string>C02106403CDKGQG1H</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -987,11 +987,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CN0A7JV3Q</string>
+			<string>C02F70N2JWDW</string>
 			<key>SystemUUID</key>
-			<string>B563E989-BD7F-45AC-81C7-87166728CF62</string>
+			<string>6CA3F385-F521-480A-B54D-91202BC6699B</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
