@@ -992,7 +992,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-AA95B1DDAB278B95</string>
+			<string>Mac-63001698E7A34814</string>
 			<key>BoardRevision</key>
 			<data>Bw==</data>
 			<key>DevicePathsSupported</key>
@@ -1006,17 +1006,17 @@
 			<key>SmcBranch</key>
 			<data>ajEzOF85AAA=</data>
 			<key>SmcPlatform</key>
-			<data>ajEzOAAAAAA=</data>
+			<data>ajEzOQAAAAA=</data>
 			<key>SmcRevision</key>
-			<data>AkYPAAAS</data>
+			<data>AkcPAAAD</data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YQGZ3JV3Q</string>
+			<string>C02ZT0TPJWDW</string>
 			<key>SystemUUID</key>
-			<string>2D58C086-7F70-47A8-80F2-E4582696E0D5</string>
+			<string>BA2E92EA-429F-439F-8A8D-9CC41C1ADE40</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1025,9 +1025,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02920108J9LNV9CB</string>
+			<string>C02950701QXKGQGFB</string>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>/Zp/luDV</data>
 			<key>SpoofVendor</key>
@@ -1035,20 +1035,20 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YQGZ3JV3Q</string>
+			<string>C02ZT0TPJWDW</string>
 			<key>SystemUUID</key>
-			<string>2D58C086-7F70-47A8-80F2-E4582696E0D5</string>
+			<string>BA2E92EA-429F-439F-8A8D-9CC41C1ADE40</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>06/22/2021</string>
+			<string>09/25/2021</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>1554.140.20.0.0</string>
+			<string>1715.40.15.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -1056,23 +1056,23 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-AA95B1DDAB278B95</string>
+			<string>Mac-63001698E7A34814</string>
 			<key>BoardSerialNumber</key>
-			<string>C02920108J9LNV9CB</string>
+			<string>C02950701QXKGQGFB</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>ChassisAssetTag</key>
 			<string>Asset Tag#</string>
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02YQGZ3JV3Q</string>
+			<string>C02ZT0TPJWDW</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
-			<string>Mac-AA95B1DDAB278B95</string>
+			<string>Mac-63001698E7A34814</string>
 			<key>FirmwareFeatures</key>
 			<data>dvWP/QgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
@@ -1080,7 +1080,7 @@
 			<key>PlatformFeature</key>
 			<integer>32</integer>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>0</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
@@ -1088,13 +1088,13 @@
 			<key>SystemManufacturer</key>
 			<string></string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YQGZ3JV3Q</string>
+			<string>C02ZT0TPJWDW</string>
 			<key>SystemUUID</key>
-			<string>2D58C086-7F70-47A8-80F2-E4582696E0D5</string>
+			<string>BA2E92EA-429F-439F-8A8D-9CC41C1ADE40</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
